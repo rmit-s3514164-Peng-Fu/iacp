@@ -1,0 +1,2 @@
+[04-May-2017 07:48:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/theiacpc/public_html/DBconn.php on line 8
+[04-May-2017 07:48:08 UTC] PHP Notice:  Trying to get property of non-object in /home/theiacpc/public_html/DBconn.php on line 9
